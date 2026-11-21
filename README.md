@@ -1,39 +1,22 @@
-# app-dev
-My-First repository
-My Favorite Movie
 
-Spider-Man: No Way Home
+My Favorite Series
 
-**Spider-Man: No Way Home** is one of my favorite movies because it combines action, adventure, and comedy. I enjoy watching it because of its exciting story and interesting characters.
+ Stranger Things
 
-Why I Like This Movie
-- It has an exciting storyline.
+Stranger Things is one of my favorite series because it has an interesting story, mystery, and adventure.
+
+ Why I Like It
+- The story is exciting.
 - The characters are interesting.
-- It teaches the importance of responsibility.
-- It shows the value of friendship and teamwork.
+- It has unexpected scenes.
 
  My Favorite Character
-**Spider-Man (Peter Parker)**
+Eleven** is my favorite character because she is brave and has special powers.
 
-I like this character because he is brave, helpful, and always tries to protect other people.
+ My Favorite Quote
+> Friends don't lie.
 
- Movie Information
+ Rating
+I would give this series a 10/10 because it is entertaining and exciting.
 
-| Category | Details |
-|---|---|
-| Movie | Spider-Man: No Way Home |
-| Genre | Action / Adventure |
-| Main Character | Peter Parker |
-| Release Year | 2021 |
 
- Favorite Quote
-
-> With great power comes great responsibility.
-
- My Rating
-
-**10/10** ⭐⭐⭐⭐⭐
-
----
-
-*This README is part of my first GitHub repository for my Application Development activity.*
